@@ -6340,4 +6340,23 @@ pfDB["units"]["enUS-turtle"] = {
   -- HYDRA-SYNTHETIC-ID: real_id_unknown
   [990005] = "Sand Snipper Crawler",
 
+  -- ============================================================
+  -- HYDRA-SYNTHETIC-ID name block: mirrors the synthetic entries
+  -- in db/units-turtle.lua. Update both files together when a real
+  -- creature ID is discovered (grep for HYDRA-SYNTHETIC-ID).
+  -- Extended 2026-04-17 for the second batch of captures.
+  -- ============================================================
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990006] = "Disturbed Ancestor",
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990007] = "Muddoll",
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990008] = "Ornala",
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990009] = "Parnal",
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990010] = "Trader Brightgrass",
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990011] = "Ushaa Rockjumper",
+
 }
