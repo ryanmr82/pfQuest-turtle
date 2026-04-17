@@ -156307,4 +156307,49 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
+  -- ============================================================
+  -- HYDRA-SYNTHETIC-ID block: Moonwhisper Coast NPCs missing a real
+  -- pfQuest creature ID. IDs 990001-999999 are reserved for guild-
+  -- internal placeholders. Each entry is marked with a
+  -- "HYDRA-SYNTHETIC-ID:" comment on the line above so a future
+  -- migration pass can grep, replace with the real WoW ID, and
+  -- delete the comment. Coord data is authoritative (from server
+  -- KV zonedata/mobs/Moonwhisper Coast).
+  -- Written 2026-04-17.
+  -- ============================================================
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown; name="Ar'lia"; source=KV zonedata/mobs/Moonwhisper Coast
+  [990001] = {
+    ["coords"] = {
+      [1] = { 63.41, 66.91, 5700, 1 },
+    },
+  },
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown; name='Elder Krasheen'; source=KV zonedata/mobs/Moonwhisper Coast
+  [990002] = {
+    ["coords"] = {
+      [1] = { 61.52, 65.64, 5700, 1 },
+    },
+  },
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown; name='Gallitrea'; source=KV zonedata/mobs/Moonwhisper Coast
+  [990003] = {
+    ["coords"] = {
+      [1] = { 63.3, 66.99, 5700, 1 },
+    },
+  },
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown; name='Richard'; source=KV zonedata/mobs/Moonwhisper Coast
+  [990004] = {
+    ["coords"] = {
+      [1] = { 64.85, 66.79, 5700, 1 },
+    },
+  },
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown; name='Sand Snipper Crawler'; source=KV zonedata/mobs/Moonwhisper Coast
+  [990005] = {
+    ["coords"] = {
+      [1] = { 49.36, 20.1, 5700, 1 },
+      [2] = { 45.35, 17.63, 5700, 1 },
+      [3] = { 40.25, 14.99, 5700, 1 },
+      [4] = { 43.13, 16.62, 5700, 1 },
+      [5] = { 58.6, 13.83, 5700, 1 },
+    },
+  },
+
 }

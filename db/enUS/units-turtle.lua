@@ -6323,4 +6323,21 @@ pfDB["units"]["enUS-turtle"] = {
   [63053] = "Moonhoof Youngblood",
   [62996] = "Shadewalker Brute",
   [62857] = "Ma'shaka",
+  -- ============================================================
+  -- HYDRA-SYNTHETIC-ID name block: matches the synthetic entries
+  -- in db/units-turtle.lua. Update both files together when a real
+  -- creature ID is discovered (grep for HYDRA-SYNTHETIC-ID).
+  -- Written 2026-04-17.
+  -- ============================================================
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990001] = "Ar\'lia",
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990002] = "Elder Krasheen",
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990003] = "Gallitrea",
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990004] = "Richard",
+  -- HYDRA-SYNTHETIC-ID: real_id_unknown
+  [990005] = "Sand Snipper Crawler",
+
 }
