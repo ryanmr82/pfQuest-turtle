@@ -155885,11 +155885,16 @@ pfDB["units"]["data-turtle"] = {
       [1] = { 42.91, 45.11, 5700, 1 },
     },
   },
+  -- 2026-04-17 capture applied: was (42.83, 45.29), replaced with
+  -- HydraDataSync v1.10.1 in-game capture (67.83, 22.44, 5700). UnitExists-based GUID
+  -- confirmed the ID via SuperWoW return value. Previous coord was a pre-transform
+  -- placeholder that rendered off the visible Moonwhisper Coast map (see commit
+  -- 559953f for the reversion that moved it there in the first place).
   [62914] = {
     ["coords"] = {
-      [1] = { 42.83, 45.29, 5700, 1 },
+      [1] = { 67.83, 22.44, 5700, 1 },
     },
-  },
+  },,
   [62917] = {
     ["coords"] = {
       [1] = { 42.85, 45.35, 5700, 1 },
