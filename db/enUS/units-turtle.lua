@@ -6401,4 +6401,5 @@ pfDB["units"]["enUS-turtle"] = {
   [63057] = "Foe-Pounder-3000",
   [63202] = "Embodiment of Ancestors",
   [62903] = "Narvalis Sentinel",
+  [62994] = "Maghan",
 }
