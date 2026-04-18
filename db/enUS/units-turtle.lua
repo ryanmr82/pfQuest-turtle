@@ -6396,4 +6396,5 @@ pfDB["units"]["enUS-turtle"] = {
   [62847] = "Tagasha Windhorn",
   [63174] = "Ushaa Rockjumper",
   [2620] = "Prairie Dog",
+  [62992] = "Elder Bhu'robi",
 }
