@@ -155978,7 +155978,7 @@ pfDB["units"]["data-turtle"] = {
     ["coords"] = {
       [1] = { 67.83, 22.44, 5700, 1 },
     },
-  },,
+  }, -- 2026-04-18 FIX: removed stray second comma that was here (',,' -> ','), was causing pfQuest to fail loading the DB at line 155981 with "unexpected symbol near ','"
   [62917] = {
     ["coords"] = {
       [1] = { 67.25, 22.53, 5700, 1 },
