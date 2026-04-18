@@ -113313,6 +113313,7 @@ pfDB["units"]["data-turtle"] = {
       [6] = { 64.75, 73.82, 5700, 1 },
       [7] = { 55.65, 43.45, 5700, 1 },
     },
+  }, -- 2026-04-18 FIX: added missing closing brace + comma for [51680] that patch_units_turtle_v3.py v1 ate during the 04-17 23:12 run. Root cause of the file-wide brace imbalance that manifested as 'unexpected symbol near `,`' at L155981 and '}} expected near <eof>' at L156787. Balance restored: { count == } count.
   [51681] = {
     ["coords"] = {},
     ["fac"] = "AH",
