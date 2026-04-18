@@ -6397,4 +6397,8 @@ pfDB["units"]["enUS-turtle"] = {
   [63174] = "Ushaa Rockjumper",
   [2620] = "Prairie Dog",
   [62992] = "Elder Bhu'robi",
+  [63073] = "Thulio",
+  [63057] = "Foe-Pounder-3000",
+  [63202] = "Embodiment of Ancestors",
+  [62903] = "Narvalis Sentinel",
 }
