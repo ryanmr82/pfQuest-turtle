@@ -6145,7 +6145,7 @@ pfDB["units"]["enUS-turtle"] = {
   [62808] = "Lunarclaw Scavenger",
   [62809] = "Startalon",
   [62810] = "Foulheart Defiler",
-  [62811] = "Foulheart Skulker",
+  [62811] = "Unknown",
   [62812] = "Foulheart Darkweaver",
   [62813] = "Miraxx Foulheart",
   [62814] = "Ancient of Wisdom",
@@ -6402,4 +6402,6 @@ pfDB["units"]["enUS-turtle"] = {
   [63202] = "Embodiment of Ancestors",
   [62903] = "Narvalis Sentinel",
   [62994] = "Maghan",
+  [63128] = "Sunsworn Sentinel",
+  [12922] = "Imp Minion",
 }
