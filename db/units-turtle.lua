@@ -113363,6 +113363,17 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "60",
     ["rnk"] = "1",
   },
+  -- 2026-04-18 caravan-fix v1: Three objective NPCs for Moonwhisper quest 41970
+  -- "The Missing Caravans". turtlecraft.gg lists them as quest_41970_caravan1/2/3
+  -- mapped to Winterspring (zone 618). Transformed to Moonwhisper Coast (zone
+  -- 5700) game coords via the standard MW transform: game_x=db_x-21.7,
+  -- game_y=db_y+30.0. Transform verified against Moonhoof the Younger (within
+  -- 0.05), Lucid Dream Stalker (exact), Torgan the Wise (within 1.6). Coord
+  -- drift tolerance is ±2 units. Rollback: restore units-turtle.lua.bak-pre-
+  -- caravans-20260418 or strip lines tagged "caravan-fix v1 2026-04-18".
+  [51691] = { ["coords"] = { [1] = { 56.32, 30.94, 5700, 1 } } }, -- caravan-fix v1 2026-04-18
+  [51692] = { ["coords"] = { [1] = { 57.14, 35.08, 5700, 1 } } }, -- caravan-fix v1 2026-04-18
+  [51693] = { ["coords"] = { [1] = { 55.59, 33.54, 5700, 1 } } }, -- caravan-fix v1 2026-04-18
   [52000] = {
     ["coords"] = {
       [1] = { 35.5, 62.4, 11, 120 },
