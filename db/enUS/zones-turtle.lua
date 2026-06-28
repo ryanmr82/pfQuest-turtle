@@ -442,4 +442,5 @@ pfDB["zones"]["enUS-turtle"] = {
   [5635] = "Slickwick Oil Rig",
   [5638] = "Sunstrider Court",
   [5639] = "Ruins of Grim Batol",
+  [5700] = "Moonwhisper Coast",
 }

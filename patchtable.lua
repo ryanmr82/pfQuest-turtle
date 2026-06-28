@@ -74,6 +74,13 @@ end
 -- Reload all pfQuest internal database shortcuts
 pfDatabase:Reload()
 
+-- Rebuild the name index AFTER the turtle merge so that all Moonwhisper
+-- (and any other new) NPC/item/object names are findable by GetIDByName's
+-- fast-path O(1) lookup. Without this, quest log objective processing
+-- can't match mob/item names to IDs, so no map markers or tooltips appear.
+pfDatabase:BuildNameIndex()
+pfDatabase:BuildStaticRejectSet()
+
 local function strsplit(delimiter, subject)
   if not subject then return nil end
   local delimiter, fields = delimiter or ":", {}
