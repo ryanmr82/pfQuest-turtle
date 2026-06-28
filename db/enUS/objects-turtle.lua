@@ -1,4 +1,4 @@
-pfDB["objects"]["enUS-turtle"] = {
+﻿pfDB["objects"]["enUS-turtle"] = {
   [1] = "ONGOING ROLEPLAY EVENT",
   [2] = "Toy Piano",
   [4] = "_",
@@ -12217,4 +12217,21 @@ pfDB["objects"]["enUS-turtle"] = {
   [7000032] = "Lighting Impact Large",
   [7000035] = "Time Rift Despawn Spell",
   [7000036] = "Whisperwind Grove",
+  -- Moonwhisper Coast
+  [300608] = "Azureshimmer Feather",
+  [2020264] = "Riverhorn Heirloom",
+  [2020265] = "Maghan's Cargo",
+  [2020266] = "Draenethyst Formation",
+  [2020313] = "Draenei Wares",
+  [2020322] = "Maras'ethil Relic",
+  [2020323] = "Maras'ethil Relic",
+  [2020324] = "Maras'ethil Relic",
+  [2020325] = "Maras'ethil Relic",
+  [2020326] = "Scroll of Lo'sho",
+  [2020327] = "Mothsilk Cocoon",
+  [2020334] = "Glowing Snow Mound",
+  [2020341] = "Sunsworn Supplies",
+  [2020343] = "Forlorn Crate",
+  [2020345] = "Nendis Memento",
+  [2020346] = "Nendis Memento",
 }
