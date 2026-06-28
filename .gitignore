@@ -1,2 +1,6 @@
 toolbox/pfQuest
 toolbox/pfQuest-fork
+
+# Backup files from data migration scripts
+*.bak-pre-*
+
