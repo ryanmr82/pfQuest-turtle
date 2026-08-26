@@ -6212,7 +6212,7 @@ pfDB["units"]["enUS-turtle"] = {
   [63122] = "Rhys Dawnbreeze",
   [63127] = "Arcanist Cerulon",
   [63148] = "Lady Serpentia",
-  [63149] = "Lord Ta\'jax",
+  [63149] = "Lord Ta’jax",
   [63150] = "Maelion Dawnbreaker",
   [63151] = "Fey Spirit",
   [63152] = "Withered Ranger",
@@ -6222,7 +6222,7 @@ pfDB["units"]["enUS-turtle"] = {
   [63157] = "Telonis Moonshade",
   [63158] = "Anashya Starshard",
   [63159] = "Velandria Bladeweaver",
-  [63183] = "Keeper N\'las",
+  [63183] = "Keeper N’las",
   [63201] = "Ireth Moondancer",
   -- Moonwhisper Coast (gap fill)
   [3057] = "Cairne Bloodhoof",
