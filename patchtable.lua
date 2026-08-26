@@ -55,8 +55,8 @@ if pfDB.bitraces then
   pfDB.bitraces[512] = "BloodElf"
 end
 
--- Use turtle-wow database url
-pfQuest.dburl = "https://database.turtlecraft.gg/?quest="
+-- Use the OctoWow database url (database.turtlecraft.gg is dead: NXDOMAIN 2026-08-26)
+pfQuest.dburl = "https://octowow.st/db/?quest="
 
 -- Disable Minimap in custom dungeon maps
 function pfMap:HasMinimap(map_id)
