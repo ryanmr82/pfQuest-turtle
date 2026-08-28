@@ -8353,4 +8353,5 @@
   [42395] = "Relic of Elunaris",
   [42396] = "Tideblade Scale",
   [42397] = "Azureshimmer Hippogryph Feather",
+  [42250] = "Ember Worg Fur"
 }

@@ -71814,6 +71814,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 53,
     ["min"] = 48,
+	["race"] = 589,
   },
   [42062] = {
     ["start"] = {
@@ -71824,6 +71825,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 54,
     ["min"] = 48,
+	["race"] = 589,
   },
   [42063] = {
     ["start"] = {
@@ -71835,6 +71837,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 54,
     ["min"] = 48,
     ["obj"] = { ["I"] = { 42349 } }, -- resolve_quest_metadata.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42064] = {
     ["start"] = {
@@ -71848,6 +71851,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 54,
     ["min"] = 48,
+	["race"] = 589,
   },
   [42065] = {
     ["start"] = {
@@ -71862,6 +71866,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 54,
     ["min"] = 48,
     ["pre"] = { 42064 }, -- audit_quest_chains.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42066] = {
     ["start"] = {
@@ -71875,6 +71880,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 54,
     ["min"] = 48,
+	["race"] = 589,
   },
   [42067] = {
     ["start"] = {
@@ -71888,6 +71894,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 55,
     ["min"] = 48,
+	["race"] = 589,
   },
   [42068] = {
     ["start"] = {
@@ -71898,6 +71905,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 56,
     ["min"] = 48,
+	["race"] = 589,
   },
   [42069] = {
     ["start"] = {
@@ -71909,6 +71917,7 @@ pfDB["quests"]["data-turtle"] = {
     ["obj"] = {
       ["I"] = { 42357 },
     },
+	["race"] = 589,
     ["lvl"] = 56,
     ["min"] = 48,
     ["pre"] = { 42068 }, -- audit_quest_chains.py v1.0 2026-04-18
@@ -72105,6 +72114,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 54,
     ["min"] = 48,
+	["race"] = 589,
   },
   [42087] = {
     ["start"] = {
@@ -72119,6 +72129,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 54,
     ["min"] = 48,
     ["pre"] = { 42086 }, -- audit_quest_chains.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42088] = {
     ["start"] = {
@@ -72130,6 +72141,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 54,
     ["min"] = 48,
     ["obj"] = { ["U"] = { 62999, 62996, 63000 } }, -- resolve_quest_metadata.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42089] = {
     ["start"] = {
@@ -72144,6 +72156,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 54,
     ["min"] = 48,
     ["pre"] = { 42088 }, -- audit_quest_chains.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42090] = {
     ["start"] = {
@@ -72156,6 +72169,7 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
     ["pre"] = { 42088, 42089 }, -- audit_quest_chains.py v1.0 2026-04-18,
     ["obj"] = { ["U"] = { 63148, 63149 } }, -- resolve_quest_metadata.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42091] = {
     ["start"] = {
@@ -72167,6 +72181,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 56,
     ["min"] = 48,
     ["pre"] = { 42088, 42089, 42090 }, -- audit_quest_chains.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42092] = {
     ["start"] = {
@@ -72178,6 +72193,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 58,
     ["min"] = 54,
     ["obj"] = { ["U"] = { 62830 } }, -- resolve_quest_metadata.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42093] = {
     ["start"] = {
@@ -72191,6 +72207,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 53,
     ["min"] = 48,
+	["race"] = 589,
   },
   [42094] = {
     ["start"] = {
@@ -72202,6 +72219,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 56,
     ["min"] = 48,
     ["obj"] = { ["U"] = { 63061, 63062, 63066, 63065 } }, -- resolve_quest_metadata.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42095] = {
     ["start"] = {
@@ -72213,6 +72231,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 54,
     ["min"] = 48,
     ["pre"] = { 42094 }, -- audit_quest_chains.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42096] = {
     ["start"] = {
@@ -72224,6 +72243,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 55,
     ["min"] = 48,
     ["pre"] = { 42095 }, -- audit_quest_chains.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42097] = {
     ["start"] = {
@@ -72235,6 +72255,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 56,
     ["min"] = 48,
     ["pre"] = { 42095, 42096 }, -- audit_quest_chains.py v1.0 2026-04-18
+	["race"] = 589,
   },
   [42098] = {
     ["start"] = {
@@ -72258,4 +72279,15 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 60,
     ["race"] = 434,
   },
+  [41969] = {
+	["start"] = {
+		["U"] = { 63086 },
+	},
+	["end"] = {
+		["U"] = { 63086 },
+	},
+	["lvl"] = 56,
+	["min"] = 50,
+	["race"] = 434
+  }
 }
