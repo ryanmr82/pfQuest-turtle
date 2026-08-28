@@ -6407,4 +6407,10 @@ pfDB["units"]["enUS-turtle"] = {
   [62994] = "Maghan",
   [63128] = "Sunsworn Sentinel",
   [12922] = "Imp Minion",
+  [63039] = "Rampaging Grell",
+  [63144] = "Deranged Druid",
+  [63145] = "Withered Druid",
+  [63172] = "Adherent of Mothshroud",
+  [63173] = "Misguided Naturalist",
+  [63068] = "Arch Druid Mothshroud",
 }
