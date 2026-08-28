@@ -13482,5 +13482,10 @@ pfDB["quests"]["enUS-turtle"] = {
 	["T"] = "Raiments of Ritual",
 	["O"] = "Bring 6 Ember Worg Fur from the Ember Worgs of Burning Steppes for Erna at Moonhoof Retreat in Moonwhisper Coast",
 	["D"] = "Why hello traveler, I am Erna, and I am responsible for much of the garments of Moonhoof Retreat. More specifically, I have been tasked to create an elaborate set of Raiments for Elder Starstrider, as his current pair are growing considerably in age. I would like to out-do my predecessor, and make something a bit more elaborate. I am in need of someone who can afford to leave Moonwhisper Coast in my stead, and travel to the fiery lands known as the Burning Steppes. I have heard tales of an exotic Ember Worg Fur from the local worgs, with deep shades of beige and red. If you are looking for work, I will require six bundles of fur, and shall pay handsomely for the travel."
-  }
+  },
+  [42070] = {
+	["T"] = "One Heir to Another",
+	["O"] = "Seek the aid of Baine Bloodhoof in Bloodhoof Village, Mulgore.",
+	["D"] = "I believe the time has come to face my father and question his judgment. Yet I doubt he would listen; he would, as always, dismiss it as if all he does is for the well of his people and I, his family. I require you to do something for me. I must have the Horde act on my behalf, but not just any adventurer, someone who will have an impact. I need you to travel south, to the plains of Mulgore, and find Baine Bloodhoof in Bloodhoof Village. I could send you to his father, but I would rather enlist the Bloodhoof heir. He will understand, from one heir to another, how heavy this burden is. Tell him what you have faced and witnessed among my tribe. You will be my witness to the urgency of this task. By gaining the support of the Horde and acting as an extension of authority, my father will be forced to listen. He hates that he must resort to the Horde, and we will use his pride against him. Do not fail me. This way, you will also absolve yourself of the sins committed under his orders."
+  },
 }
