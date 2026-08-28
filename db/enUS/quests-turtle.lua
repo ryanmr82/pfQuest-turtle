@@ -13478,4 +13478,9 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Win a battle in the battle for the Thorn Gorge and report to any of its Battlemasters in your capital cities afterwards.",
     ["D"] = "<name>, the vile and selfish dwarves have infiltrated our holy lands and began desecrating it! In their greed for knowledge they dug deep into the lands of the Earthmother and disrespected her sanctity. We cannot let this stand.$B$BThe Horde will remind them of their brutal transgression and drive them out of our lands. For that, courageous soldiers such as you are needed. With your strength and perseverance, our defenders will have little issue in disposing of these invaders.",
   },
+  [41969] = {
+	["T"] = "Raiments of Ritual",
+	["O"] = "Bring 6 Ember Worg Fur from the Ember Worgs of Burning Steppes for Erna at Moonhoof Retreat in Moonwhisper Coast",
+	["D"] = "Why hello traveler, I am Erna, and I am responsible for much of the garments of Moonhoof Retreat. More specifically, I have been tasked to create an elaborate set of Raiments for Elder Starstrider, as his current pair are growing considerably in age. I would like to out-do my predecessor, and make something a bit more elaborate. I am in need of someone who can afford to leave Moonwhisper Coast in my stead, and travel to the fiery lands known as the Burning Steppes. I have heard tales of an exotic Ember Worg Fur from the local worgs, with deep shades of beige and red. If you are looking for work, I will require six bundles of fur, and shall pay handsomely for the travel."
+  }
 }
