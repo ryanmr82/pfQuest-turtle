@@ -12242,4 +12242,5 @@
   [2020426] = "Raw Draenethyst Formation",
   [2020427] = "Raw Nightfin Snapper",
   [2020428] = "The Velvet Hammer",
+  [2020429] = "Rod of Preservation",
 }
