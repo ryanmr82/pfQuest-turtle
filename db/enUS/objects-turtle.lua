@@ -12233,5 +12233,13 @@
   [2020341] = "Sunsworn Supplies",
   [2020343] = "Forlorn Crate",
   [2020345] = "Nendis Memento",
-  [2020346] = "Nendis Memento"
+  [2020346] = "Nendis Memento",
+  [2020421] = "Fairy's Embrace",
+  [2020422] = "Jug of Bourbon",
+  [2020423] = "Moonwhisper Berry",
+  [2020424] = "Plated Armorfish",
+  [2020425] = "Ragged Leaves",
+  [2020426] = "Raw Draenethyst Formation",
+  [2020427] = "Raw Nightfin Snapper",
+  [2020428] = "The Velvet Hammer",
 }
