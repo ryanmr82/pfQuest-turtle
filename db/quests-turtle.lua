@@ -71245,8 +71245,11 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 49,
   },
   [41946] = {
-    ["obj"] = {
-      ["I"] = { 42000 },
+    ["start"] = {
+      ["U"] = { 62922 },
+    }, -- farm-raiders-fix 2026-09-07: giver Farmer Denphar was never recorded, so no map marker
+    ["end"] = {
+      ["U"] = { 62922 },
     },
     ["lvl"] = 53,
     ["min"] = 47,
