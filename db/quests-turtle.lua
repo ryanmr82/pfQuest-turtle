@@ -71142,6 +71142,9 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 50,
   },
   [41909] = {
+    ["end"] = {
+      ["U"] = { 62851 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41909
     ["obj"] = {
       ["I"] = { 42015 },
     },
@@ -71149,10 +71152,19 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 50,
   },
   [41910] = {
+    ["start"] = {
+      ["U"] = { 62850 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41910
+    ["end"] = {
+      ["U"] = { 62986 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41910
     ["lvl"] = 54,
     ["min"] = 48,
   },
   [41911] = {
+    ["end"] = {
+      ["U"] = { 62986 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41911
     ["start"] = {
       ["U"] = { 60082 },
     },
@@ -71163,6 +71175,9 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
   },
   [41912] = {
+    ["end"] = {
+      ["U"] = { 62920 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41912
     ["start"] = {
       ["U"] = { 62989 },
     },
@@ -71170,6 +71185,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
   },
   [41913] = {
+    ["start"] = {
+      ["U"] = { 62920 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41913
+    ["end"] = {
+      ["U"] = { 62920 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41913
     ["obj"] = {
       ["I"] = { 42001, 8831, 42134, 42135 },
     },
@@ -71177,6 +71198,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
   },
   [41914] = {
+    ["start"] = {
+      ["U"] = { 62920 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41914
+    ["end"] = {
+      ["U"] = { 62986 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41914
     ["obj"] = {
       ["I"] = { 42137, 42138 },
     },
@@ -71184,6 +71211,9 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
   },
   [41915] = {
+    ["end"] = {
+      ["U"] = { 62850 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41915
     ["start"] = {
       ["U"] = { 60083 },
     },
@@ -71198,10 +71228,19 @@ pfDB["quests"]["data-turtle"] = {
     ["end"] = { ["U"] = { 62850 } }, -- OVERRIDE: resolve_quest_metadata.py v1.0 2026-04-18
   },
   [41917] = {
+    ["start"] = {
+      ["U"] = { 62850 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41917
+    ["end"] = {
+      ["U"] = { 62986 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41917
     ["lvl"] = 58,
     ["min"] = 52,
   },
   [41918] = {
+    ["end"] = {
+      ["U"] = { 62923 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41918
     ["obj"] = {
       ["I"] = { 42139 },
     },
@@ -71209,6 +71248,9 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
   },
   [41919] = {
+    ["end"] = {
+      ["U"] = { 62923 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41919
     ["obj"] = {
       ["I"] = { 42139 },
     },
@@ -71216,6 +71258,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
   },
   [41920] = {
+    ["start"] = {
+      ["U"] = { 62994 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41920
+    ["end"] = {
+      ["U"] = { 62854 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41920
     ["obj"] = {
       ["I"] = { 42140 },
     },
@@ -71223,14 +71271,26 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 47,
   },
   [41921] = {
+    ["end"] = {
+      ["U"] = { 62863 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41921
     ["lvl"] = 52,
     ["min"] = 46,
   },
   [41922] = {
+    ["start"] = {
+      ["U"] = { 62863 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41922
+    ["end"] = {
+      ["U"] = { 91781 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41922
     ["lvl"] = 52,
     ["min"] = 46,
   },
   [41944] = {
+    ["end"] = {
+      ["U"] = { 62861 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41944
     ["obj"] = {
       ["I"] = { 42216, 42010 },
     },
@@ -71238,6 +71298,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
   },
   [41945] = {
+    ["start"] = {
+      ["U"] = { 62852 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41945
+    ["end"] = {
+      ["U"] = { 62852 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41945
     ["obj"] = {
       ["I"] = { 42217 },
     },
@@ -71255,6 +71321,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 47,
   },
   [41947] = {
+    ["start"] = {
+      ["O"] = { 2020312 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41947
+    ["end"] = {
+      ["U"] = { 63047 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41947
     ["obj"] = {
       ["I"] = { 42218 },
     },
@@ -71262,6 +71334,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 50,
   },
   [41948] = {
+    ["start"] = {
+      ["O"] = { 2020312 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41948
+    ["end"] = {
+      ["U"] = { 63047 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41948
     ["obj"] = {
       ["I"] = { 42219, 42220 },
     },
@@ -71269,6 +71347,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
   },
   [41949] = {
+    ["start"] = {
+      ["U"] = { 63047 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41949
+    ["end"] = {
+      ["U"] = { 63047 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41949
     ["obj"] = {
       ["I"] = { 42221 },
     },
@@ -71276,6 +71360,9 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 48,
   },
   [41950] = {
+    ["end"] = {
+      ["U"] = { 62920 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41950
     ["obj"] = {
       ["I"] = { 42222 },
     },
@@ -71283,6 +71370,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 50,
   },
   [41951] = {
+    ["start"] = {
+      ["U"] = { 62920 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41951
+    ["end"] = {
+      ["U"] = { 62994 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41951
     ["obj"] = {
       ["I"] = { 42222 },
     },
@@ -71290,6 +71383,12 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 50,
   },
   [41952] = {
+    ["start"] = {
+      ["U"] = { 62994 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41952
+    ["end"] = {
+      ["U"] = { 62920 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41952
     ["obj"] = {
       ["I"] = { 42223 },
     },
@@ -71297,10 +71396,22 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 50,
   },
   [41954] = {
+    ["start"] = {
+      ["U"] = { 62864 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41954
+    ["end"] = {
+      ["U"] = { 62864 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41954
     ["lvl"] = 52,
     ["min"] = 50,
   },
   [41955] = {
+    ["start"] = {
+      ["U"] = { 62864 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41955
+    ["end"] = {
+      ["U"] = { 62864 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=41955
     ["obj"] = {
       ["I"] = { 42225, 42226, 42227 },
     },
@@ -71573,6 +71684,9 @@ pfDB["quests"]["data-turtle"] = {
     ["race"] = 434,
   },
   [42012] = {
+    ["end"] = {
+      ["U"] = { 62851 },
+    }, -- giver-sweep 2026-09-07: from octowow ?quest=42012
     ["start"] = {
       ["U"] = { 62983 },
     },
