@@ -12963,6 +12963,10 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Strategic Strike",
   },
   -- Moonwhisper Coast
+  [41898] = {
+    ["T"] = "Twisted Relations",
+    ["O"] = "Slay 8 Blackroot Warriors, 8 Blackroot Shaman, 8 Blackroot Ursas, and Grawlsh the Mad for Raghol at the entrance of Timbermaw Hold at the southern end of Moonwhisper Coast.",
+  },
   [41907] = {
     ["T"] = "Riverhorn Village",
     ["O"] = "Travel north, to Riverhorn Village and recover 7 Riverhorn Heirlooms for Yagoh Riverhorn at his house, south of Riverhorn Village at Moonwhisper Coast.",
