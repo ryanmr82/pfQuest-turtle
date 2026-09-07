@@ -12243,4 +12243,7 @@
   [2020427] = "Raw Nightfin Snapper",
   [2020428] = "The Velvet Hammer",
   [2020429] = "Rod of Preservation",
+  [4205101] = "Shrine of Crags (Earth)", -- bound-in-stone-fix 2026-09-06: synthetic shrine marker, real trigger NPC 6035x has no spawn
+  [4205102] = "Shrine of Blazes (Fire)", -- bound-in-stone-fix 2026-09-06: synthetic shrine marker, real trigger NPC 6035x has no spawn
+  [4205103] = "Shrine of Cyclones (Wind)", -- bound-in-stone-fix 2026-09-06: synthetic shrine marker, real trigger NPC 6035x has no spawn
 }

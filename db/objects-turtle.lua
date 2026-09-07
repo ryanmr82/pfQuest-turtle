@@ -121561,4 +121561,19 @@ pfDB["objects"]["data-turtle"] = {
       [1] = { 46.18, 28.76, 5700, 1 },
     },
   },
+  [4205101] = {
+    ["coords"] = {
+      [1] = { 52.72, 25.19, 5700, 1 }, -- bound-in-stone-fix 2026-09-06: synthetic shrine marker, real trigger NPC 6035x has no spawn
+    },
+  },
+  [4205102] = {
+    ["coords"] = {
+      [1] = { 50, 34.91, 5700, 1 }, -- bound-in-stone-fix 2026-09-06: synthetic shrine marker, real trigger NPC 6035x has no spawn
+    },
+  },
+  [4205103] = {
+    ["coords"] = {
+      [1] = { 56.16, 58.22, 5700, 1 }, -- bound-in-stone-fix 2026-09-06: synthetic shrine marker, real trigger NPC 6035x has no spawn
+    },
+  },
 }
