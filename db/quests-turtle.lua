@@ -71120,6 +71120,19 @@ pfDB["quests"]["data-turtle"] = {
     },
   },
   -- Moonwhisper Coast
+  [41898] = {
+    ["start"] = {
+      ["U"] = { 62795 },
+    }, -- octowow ?npc=62795 starts 41898 (2026-09-07, Ryan in game)
+    ["end"] = {
+      ["U"] = { 62795 },
+    }, -- octowow ?npc=62795 ends 41898
+    ["obj"] = {
+      ["U"] = { 62786, 62789, 62791, 62794 },
+    },
+    ["lvl"] = 55,
+    ["min"] = 48,
+  },
   [41907] = {
     ["start"] = {
       ["U"] = { 62984 },
