@@ -71135,6 +71135,12 @@ pfDB["quests"]["data-turtle"] = {
     ["race"] = 434,
   },
   [41908] = {
+    ["end"] = {
+      ["U"] = { 62851 },
+    },
+    ["start"] = {
+      ["U"] = { 62851 },
+    },
     ["obj"] = {
       ["I"] = { 42001 },
     },
@@ -71142,6 +71148,9 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 50,
   },
   [41909] = {
+    ["start"] = {
+      ["U"] = { 62851 },
+    },
     ["end"] = {
       ["U"] = { 62851 },
     }, -- giver-sweep 2026-09-07: from octowow ?quest=41909
@@ -71288,6 +71297,9 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 46,
   },
   [41944] = {
+    ["start"] = {
+      ["U"] = { 63046 },
+    },
     ["end"] = {
       ["U"] = { 62861 },
     }, -- giver-sweep 2026-09-07: from octowow ?quest=41944
