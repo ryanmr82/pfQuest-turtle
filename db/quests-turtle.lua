@@ -71376,9 +71376,7 @@ pfDB["quests"]["data-turtle"] = {
     ["end"] = {
       ["U"] = { 62994 },
     }, -- giver-sweep 2026-09-07: from octowow ?quest=41951
-    ["obj"] = {
-      ["I"] = { 42222 },
-    },
+    -- merchants-knowledge-fix 2026-09-07: talk-to quest, the crate is already carried; no item objective so only Maghan's turn-in pin draws
     ["lvl"] = 55,
     ["min"] = 50,
   },
