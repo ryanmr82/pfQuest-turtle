@@ -71780,7 +71780,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 56,
     ["min"] = 50,
     ["race"] = 434,
-    ["obj"] = { ["U"] = { 62894, 62892, 62893 } }, -- bound-in-stone-fix 2026-09-06: shrine triggers 60357-60359 are invisible, map the visible elementals
+    ["obj"] = { ["O"] = { 4205101, 4205102, 4205103 } }, -- bound-in-stone-fix 2026-09-06: shrine triggers 60357-60359 are invisible, use synthetic shrine objects 4205101-4205103
   },
   [42052] = {
     ["start"] = {
