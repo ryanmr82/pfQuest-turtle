@@ -12222,6 +12222,7 @@ pfDB["objects"]["enUS-turtle"] = {
   [2020264] = "Riverhorn Heirloom",
   [2020265] = "Maghan's Cargo",
   [2020266] = "Draenethyst Formation",
+  [2020312] = "WANTED!",
   [2020313] = "Draenei Wares",
   [2020322] = "Maras'ethil Relic",
   [2020323] = "Maras'ethil Relic",
