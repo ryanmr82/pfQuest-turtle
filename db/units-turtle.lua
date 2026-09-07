@@ -155858,7 +155858,8 @@ pfDB["units"]["data-turtle"] = {
   },
   [63092] = {
     ["coords"] = {
-      [1] = { 50.32, 96.87, 5700, 1 },
+      [1] = { 51.9, 92.4, 5700, 0 }, -- Blackroot Runner camp (fire camp), in-game ground truth 2026-09-07
+      [2] = { 50.32, 96.87, 5700, 1 },
     },
   },
   [63119] = {
