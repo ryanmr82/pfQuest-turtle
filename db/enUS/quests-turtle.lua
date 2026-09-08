@@ -13496,4 +13496,12 @@ pfDB["quests"]["enUS-turtle"] = {
 	["O"] = "Seek the aid of Baine Bloodhoof in Bloodhoof Village, Mulgore.",
 	["D"] = "I believe the time has come to face my father and question his judgment. Yet I doubt he would listen; he would, as always, dismiss it as if all he does is for the well of his people and I, his family. I require you to do something for me. I must have the Horde act on my behalf, but not just any adventurer, someone who will have an impact. I need you to travel south, to the plains of Mulgore, and find Baine Bloodhoof in Bloodhoof Village. I could send you to his father, but I would rather enlist the Bloodhoof heir. He will understand, from one heir to another, how heavy this burden is. Tell him what you have faced and witnessed among my tribe. You will be my witness to the urgency of this task. By gaining the support of the Horde and acting as an extension of authority, my father will be forced to listen. He hates that he must resort to the Horde, and we will use his pride against him. Do not fail me. This way, you will also absolve yourself of the sins committed under his orders."
   },
+  [41953] = {
+    ["T"] = "Draenethyst Recovery",
+    ["O"] = "Enter Timbermaw Hold and retrieve the corrupted draenethyst. Bring them to Riftmaster Ral’pekta in Moro’gai Village of Moonwhisper Coast if you are successful.",
+  },
+  [42044] = {
+    ["T"] = "A Plea for Help",
+    ["O"] = "Speak to Grovetender Sellais in the Grove of the Sun on Tyrandas in Moonwhisper Coast. Description <name>, I have received an urgent message from one of the Circle's druidic enclaves in Moonwhisper Coast. Tragedy has befallen our brethren and they seek immediate aid. Please, seek out their grove on the island of Tyrandas in the northeast of Moonwhisper Coast and report to Grovetender Sellais. Completion Loganaar received my message? What a relief. Gains Upon completion of quests, get: 1200 Experience 50 Reputation with Cenarion Circle See also No comments yet. Log in to post a comment.",
+  },
 }
