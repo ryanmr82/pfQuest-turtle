@@ -12967,6 +12967,10 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Twisted Relations",
     ["O"] = "Slay 8 Blackroot Warriors, 8 Blackroot Shaman, 8 Blackroot Ursas, and Grawlsh the Mad for Raghol at the entrance of Timbermaw Hold at the southern end of Moonwhisper Coast.",
   },
+  [41899] = {
+    ["T"] = "Blackroot Totems",
+    ["O"] = "Gather 10 Blackroot Totems from the local Blackroot Furbolg for Raghol at the Timbermaw Hold Entrance at southern Moonwhisper Coast.",
+  },
   [41907] = {
     ["T"] = "Riverhorn Village",
     ["O"] = "Travel north, to Riverhorn Village and recover 7 Riverhorn Heirlooms for Yagoh Riverhorn at his house, south of Riverhorn Village at Moonwhisper Coast.",

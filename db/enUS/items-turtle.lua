@@ -1,4 +1,4 @@
-﻿pfDB["items"]["enUS-turtle"] = {
+pfDB["items"]["enUS-turtle"] = {
   [1] = "Spring White Rabbit Headband",
   [2] = "Ebon Gryphon",
   [3] = "Snowy Gryphon",
@@ -8307,6 +8307,7 @@
   [42137] = "Foulheart Hooves",
   [42138] = "Elder's Missive",
   [42139] = "Spool of Moonsilk",
+  [41996] = "Blackroot Totem",
   [42140] = "Maghan's Cargo",
   [42216] = "Nightpelt Flank",
   [42217] = "Lunarclaw Brain",
