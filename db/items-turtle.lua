@@ -367387,7 +367387,7 @@ pfDB["items"]["data-turtle"] = {
   },
   [41996] = {
     ["U"] = { [62786] = 15, [62787] = 15, [62788] = 15, [62789] = 15, [62790] = 15, [62791] = 15, [62792] = 15, [62793] = 15 },
-  }, -- octowow ?item=41996 dropped-by (2026-09-07)
+  }, -- quest text: local Blackroot Furbolg, no drop table on octowow, 15 pct provisional (2026-09-07)
   [42140] = {
     ["O"] = { [2020265] = 100 },
   },
