@@ -13502,6 +13502,6 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [42044] = {
     ["T"] = "A Plea for Help",
-    ["O"] = "Speak to Grovetender Sellais in the Grove of the Sun on Tyrandas in Moonwhisper Coast. Description <name>, I have received an urgent message from one of the Circle's druidic enclaves in Moonwhisper Coast. Tragedy has befallen our brethren and they seek immediate aid. Please, seek out their grove on the island of Tyrandas in the northeast of Moonwhisper Coast and report to Grovetender Sellais. Completion Loganaar received my message? What a relief. Gains Upon completion of quests, get: 1200 Experience 50 Reputation with Cenarion Circle See also No comments yet. Log in to post a comment.",
+    ["O"] = "Speak to Grovetender Sellais in the Grove of the Sun on Tyrandas in Moonwhisper Coast.",
   },
 }
