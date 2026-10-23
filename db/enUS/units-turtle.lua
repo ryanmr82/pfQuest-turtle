@@ -6427,4 +6427,8 @@ pfDB["units"]["enUS-turtle"] = {
   [62795] = "Raghol",
   [63221] = "Zegh Sparkleblast",
   [62933] = "Fallen One Cook",
+  [62991] = "Ar'lia",
+  [63164] = "Disturbed Ancestor",
+  [63176] = "Fisher Ghujabi",
+  [63060] = "Zegh Sparkleblast",
 }
