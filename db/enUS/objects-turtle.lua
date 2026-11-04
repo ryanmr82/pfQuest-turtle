@@ -12246,5 +12246,6 @@ pfDB["objects"]["enUS-turtle"] = {
   [2020429] = "Rod of Preservation",
   [4205101] = "Shrine of Crags", -- bound-in-stone-fix 2026-09-06: name must equal the quest-log objective so pfQuest hides it when done; synthetic marker, real trigger NPC 6035x has no spawn
   [4205102] = "Shrine of Blazes", -- bound-in-stone-fix 2026-09-06: name must equal the quest-log objective so pfQuest hides it when done; synthetic marker, real trigger NPC 6035x has no spawn
-  [4205103] = "Shrine of Cyclones", -- bound-in-stone-fix 2026-09-06: name must equal the quest-log objective so pfQuest hides it when done; synthetic marker, real trigger NPC 6035x has no spawn
+  [4205103] = "Shrine of Cyclones", -- bound-in-stone-fix 2026-09-06: name must equal the quest-log objective so pfQuest hides it when done; synthetic marker, real trigger NPC 6035x has no spawn,
+  [2020430] = "Stolen Moro’gai Wares",
 }
