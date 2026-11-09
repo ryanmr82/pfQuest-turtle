@@ -6450,4 +6450,13 @@ pfDB["units"]["enUS-turtle"] = {
   [62846] = "Sagarna",
   [62905] = "Seltarii Skycloud",
   [63075] = "Sprite of Aessina",
+  [62838] = "Bhulf",
+  [63026] = "Illesra",
+  [63155] = "Lost Wisp",
+  [63146] = "Rotting Ancient",
+  [63143] = "Sister of Rot",
+  [62997] = "Suntail",
+  [63142] = "Whispering Satyr",
+  [63042] = "Wild Fae Dragon",
+  [63147] = "Withered Companion",
 }
