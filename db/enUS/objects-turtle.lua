@@ -12249,4 +12249,7 @@ pfDB["objects"]["enUS-turtle"] = {
   [4205103] = "Shrine of Cyclones", -- bound-in-stone-fix 2026-09-06: name must equal the quest-log objective so pfQuest hides it when done; synthetic marker, real trigger NPC 6035x has no spawn,
   [2020430] = "Stolen Moro’gai Wares",
   [2020431] = "Condensed Mana Fragment",
+  [2020432] = "Chieftain's Bracers of the Monkey",
+  [2020433] = "Iridescent Pearl",
+  [2020434] = "Zesty Clam Meat",
 }
